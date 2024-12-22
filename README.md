@@ -9,7 +9,7 @@
 
 **Duration: December to Janurary 2025**
 
-**Text-to-Speech Conversion Application
+**Text-to-Speech Conversion Application**
 
 **Overview**
 
